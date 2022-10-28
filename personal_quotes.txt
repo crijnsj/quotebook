@@ -1,8 +1,4 @@
 My first personal quote
-<<<<<<< HEAD
 
-Added quote via mastr
-
-=======
 I made some extra edits for merge
->>>>>>> personal_quotes
+

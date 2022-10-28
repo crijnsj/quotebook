@@ -2,3 +2,4 @@ do or do not, there is no try - Yoda
 It always seems impossible until its done - Nelson Mandela
 
 This should be the diff
+Now I'm on github and added this
